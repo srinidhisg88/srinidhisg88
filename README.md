@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&width=435&lines=Building+Genomic+Disease+Predictors;Crafting+AI+Chatbots+with+FastAPI;Exploring+Rust%2C+Solana%2C+and+HFT;Open+Source+Contributor+%7C+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&width=600&lines=Genomic+Disease+Prediction;AI+Chatbots+via+FastAPI;Exploring+Rust,+Solana+%26+HFT;OSS+Dev+%7C+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
