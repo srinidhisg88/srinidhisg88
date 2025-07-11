@@ -24,10 +24,10 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:srinidhisg88@gmail.com">
+  <a href="mailto:srinidhisg1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://linkedin.com/in/srinidhisg88" target="_blank">
+  <a href="https://linkedin.com/in/srinidhisg88](https://www.linkedin.com/in/srinidhi-s-g-a354b6258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/srinidhisg88" target="_blank">
