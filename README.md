@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd Year CSE at JSSSTU, Mysuru  
+- 🎓 4th Year CSE at JSSSTU, Mysuru  
 - 🧬 Building a **genomic sequencing ML pipeline** for hereditary disease prediction  
 - 🤖 Created **FinGo chatbot** using FastAPI + LangChain + Gemini 2.0 + Qdrant  
 - 🧠 Learning **Solana blockchain**, **Rust**, and **high-frequency trading**  
