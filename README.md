@@ -4,17 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=srinidhisg88&label=Profile+Views&color=blue&style=flat-square" alt="Visitor Badge" />
 </p>
 
----
 
-## 🚀 About Me
-
-- 🎓 4th Year CSE at JSSSTU, Mysuru  
-- 🧬 Building a **genomic sequencing ML pipeline** for hereditary disease prediction  
-- 🤖 Created **FinGo chatbot** using FastAPI + LangChain + Gemini 2.0 + Qdrant  
-- 🧠 Learning **Solana blockchain**, **Rust**, and **high-frequency trading**  
-- 📈 Passionate about building AI apps and data-driven systems  
-
----
 
 ## 📫 Connect With Me
 
