@@ -33,8 +33,8 @@
 | **Frontend** | React, TailwindCSS, HTML/CSS |
 | **ML/AI**    | Scikit-learn, Pandas, Matplotlib, LangChain, Gemini 2.0 |
 | **Database** | PostgreSQL, Supabase |
-| **Vector DB**| Qdrant |
-| **Cloud**    | AWS EC2, Docker |
+| **Vector DB**| Qdrant,ChromaDB |
+| **Cloud**    |  Docker,Azure  |
 | **Other**    | Git, GitHub Actions, Figma, n8n, LLaMA-3 |
 
 ---
@@ -42,7 +42,6 @@
 ## 📌 Featured Projects
 
 - 🔬 [**Genome-sequencing**](https://github.com/srinidhisg88/Genome-sequencing): Exploratory disease prediction using VCF + PCA + clustering  
-- 🧠 [**FinGo-chatbot**](https://github.com/srinidhisg88/FinGo-chatbot): Supply-chain chatbot with FastAPI + Qdrant + Gemini  
 - 🌐 [**Campus Connect**](https://github.com/srinidhisg88/Campus_connect): Platform connecting students, alumni, and industry  
 - 📚 [**LeetCode Solutions**](https://github.com/srinidhisg88/LeetCode-Solutions): 120+ Python DSA problems
 
