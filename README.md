@@ -18,9 +18,7 @@
   <a href="https://github.com/srinidhisg88" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
   </a>
-  <a href="https://devpost.com/srinidhisg88" target="_blank">
-    <img src="https://img.shields.io/badge/Devpost-Portfolio-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost Badge" />
-  </a>
+  
 </p>
 
 ---
@@ -31,11 +29,10 @@
 |--------------|------------------|
 | **Backend**  | FastAPI, Flask, Node.js |
 | **Frontend** | React, TailwindCSS, HTML/CSS |
-| **ML/AI**    | Scikit-learn, Pandas, Matplotlib, LangChain, Gemini 2.0 |
+| **ML/AI**    | Scikit-learn, Pandas, Matplotlib, LangChain |
 | **Database** | PostgreSQL, Supabase |
 | **Vector DB**| Qdrant,ChromaDB |
 | **Cloud**    |  Docker,Azure  |
-| **Other**    | Git, GitHub Actions, Figma, n8n, LLaMA-3 |
 
 ---
 
@@ -64,14 +61,6 @@
 
 ---
 
-## 🧠 Currently Learning
-
-- 🧬 VCF annotation & genetic risk analysis  
-- ⚡ Rust for low-latency systems & HFT  
-- 🛠 Solana DApps with Anchor framework  
-- 🤖 AI agents for workflow automation (n8n + LangChain)
-
----
 
 ## 🌟 Let's Build Together!
 
