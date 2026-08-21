@@ -28,7 +28,6 @@
 | Domain       | Tools & Languages |
 |--------------|------------------|
 | **Backend**  | FastAPI, Flask, Node.js |
-| **Frontend** | React, TailwindCSS, HTML/CSS |
 | **ML/AI**    | Scikit-learn, Pandas, Matplotlib, LangChain |
 | **Database** | PostgreSQL, Supabase |
 | **Vector DB**| Qdrant,ChromaDB |
